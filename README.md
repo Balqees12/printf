@@ -40,4 +40,4 @@ Upon successful return, the _printf() function return the number of characters p
 If an output error is encountered, a negative value is returned.
 
 Authors
-t-Spirit & godwhin
+Balqess Lasisi and Olawale Busayo
